@@ -16,4 +16,9 @@ public class testController {
         return "index";
     }
 
+    @RequestMapping("/param")
+    public String testParam() {
+        return "test_param";
+    }
+
 }
