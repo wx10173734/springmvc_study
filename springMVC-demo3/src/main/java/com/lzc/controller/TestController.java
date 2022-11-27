@@ -15,9 +15,9 @@ public class TestController {
 //        return "index";
 //    }
 
-    @RequestMapping("/test_view")
-    public String test_view() {
-        return "test_view";
-    }
+//    @RequestMapping("/test_view")
+//    public String test_view() {
+//        return "test_view";
+//    }
 
 }
